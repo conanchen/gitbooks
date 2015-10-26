@@ -121,5 +121,5 @@
 * 第一百一十七回 睦州城箭射邓元觉 乌龙岭神助宋公明
 * 第一百一十八回 卢俊义大战昱岭关 宋公明智取清溪洞
 * 第一百一十九回 鲁智深浙江坐化 宋公明衣锦还乡
-* 第一百二十回 宋公明神聚蓼儿 徽宗帝梦游梁山泊
+* [第一百二十回 宋公明神聚蓼儿 徽宗帝梦游梁山泊](di_yi_bai_er_shi_hui_song_gong_ming_shen_ju_liao_er_hui_zong_di_meng_you_liang_shan_bo.md)
 
