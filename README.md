@@ -21,3 +21,5 @@
 七、征讨田虎、王庆；
 
 八、征讨江南的方腊并死伤2\3以上，全书在悲剧性且引人深思的氛围中结束。
+
+http://www.51xs.com/gd/s/shinaian/shz/index.html
