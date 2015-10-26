@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [[楔子 张天师祈禳瘟疫 洪太尉误走妖魔]](xie_zi_zhang_tian_shi_qi_rang_wen_yi_hong_tai_wei_wu_zou_yao_9b545d.md)
+* [楔子 张天师祈禳瘟疫 洪太尉误走妖魔](xie_zi_zhang_tian_shi_qi_rang_wen_yi_hong_tai_wei_wu_zou_yao_9b545d.md)
 * [第一回 王教头私走延安府 九纹龙大闹史家村]
 * [第二回 史大郎夜走华阴县 鲁提辖拳打镇关西]
 * [第三回 赵员外重修文殊院 鲁智深大闹五台山]
